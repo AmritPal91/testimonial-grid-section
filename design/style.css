@@ -1,0 +1,172 @@
+body{
+  margin: 0rem;
+  background-color: hsl(210, 46%, 95%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+h2{
+  font-size: 1.5rem;
+  margin-top: 0rem;
+  margin-bottom: 1.7rem;
+}
+/**************** Classes ***********/
+  .main-box{
+  background-color: hsl(210, 46%, 95%);
+  height: 56.25rem;
+  width: 90rem;
+margin: 8rem 10rem 8rem 10rem;
+}
+/*************** Violet Box *********************/
+.violet-box{
+  background-color: hsl(263, 55%, 52%);
+  box-shadow: 10px 20px 40px  hsl(0, 0%, 81%);
+  border-radius: 1rem;
+  color: hsl(0, 0%, 100%);
+  height: 21.38rem;
+  width: 38rem;
+}
+.h-violet{
+  position: absolute;
+  font-size: 1.5rem;
+  width: 34rem;
+}
+.p-violet{
+  position: absolute;
+  opacity: 70%;
+  font-size: 0.95rem;
+  line-height: 1.32;
+  top: 20rem;
+  width: 34rem;
+}
+.degree-violet{
+  display: inline-block;
+  font-size: 0.83rem;
+  margin-left: 1.4rem;
+  margin-top: 0rem;
+  margin-bottom: 2.8rem;
+  opacity: 50%;
+  position: relative;
+  top: 1.4rem;
+  right: 6.6rem;
+}
+
+.quot-img-pos{
+  height: 8.5rem;
+  width: 8rem;
+  position: absolute;
+  top: 8rem;
+  right: 42rem;
+}
+/**************** Grey Box ****************/
+.grey-box{
+  background-color: hsl(217, 19%, 35%);
+  box-shadow: 10px 20px 40px  hsl(0, 0%, 81%);
+  border-radius: 1rem;
+  color: hsl(0, 0%, 100%);
+  height: 21.38rem;
+  width: 18rem;
+  position: relative;
+  left: 39.5rem;
+  bottom: 21.38rem;
+}
+.p-specs-grey{
+  opacity: 70%;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  }
+/**************** Small white box ****************/
+.small-white-box{
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 10px 20px 40px  hsl(0, 0%, 81%);
+  border-radius: 1rem;
+  color: hsl(219, 29%, 14%);
+  height: 21.38rem;
+  width: 18rem;
+  position: relative;
+  bottom: 19.52rem;
+
+}
+/************** Black box***************/
+.black-box{
+  background-color: hsl(219, 29%, 14%);
+  box-shadow: 10px 20px 40px  hsl(0, 0%, 81%);
+  border-radius: 1rem;
+  color: hsl(0, 0%, 100%);
+  height: 21.38rem;
+  width: 38rem;
+  position: relative;
+  left: 19.8rem;
+  bottom: 41rem;
+}
+.wide-p-width{
+  width: 34rem;
+  margin: auto;
+}
+.wide-p-degree{
+  display: inline-block;
+  font-size: 0.83rem;
+  margin-left: 1.3rem;
+  margin-top: 0rem;
+  margin-bottom: 2.8rem;
+  opacity: 50%;
+  position: relative;
+  top: 1.3rem;
+  right: 7rem;
+}
+/**************** Long white box ****************/
+.long-white-box{
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 1rem;
+  box-shadow: 10px 20px 40px  hsl(0, 0%, 81%);
+  color: hsl(219, 29%, 14%);
+  height: 44.5rem;
+  width: 18rem;
+  position: relative;
+  left: 59.5rem;
+  bottom: 85.5rem;
+
+}
+.p-specs-white-long{
+  opacity: 70%;
+  font-size: 0.95rem;
+  line-height: 1.32;
+  }
+/*************** Other common settings ***************/
+.name{
+  display: inline-block;
+  font-size: 0.92rem;
+  margin-left: 1rem;
+  margin-top: 2.3rem;
+}
+.degree{
+  display: inline-block;
+  font-size: 0.83rem;
+  margin-left: 1rem;
+  margin-top: 0rem;
+  opacity: 50%;
+  position: relative;
+  bottom: 0.8rem;
+}
+.p-specs{
+  opacity: 70%;
+  font-size: 0.96rem;
+  line-height: 1.3;
+  }
+.p-width{
+  text-align: left;
+  width: 13rem;
+  margin: auto;
+}
+.img-setting{
+  height: 2.3rem;
+  width: 2.3rem;
+  border-radius: 5rem;
+  float: left;
+  margin-top: 2.4rem;
+}
+.attribution {
+  font-size: 11px; text-align: center;
+  position: absolute;
+  top: 54rem;
+  margin-left: 35rem;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
