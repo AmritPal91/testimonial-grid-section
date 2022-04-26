@@ -168,9 +168,9 @@ color:var(--white);
 
 }
  .container{
- height:98.5rem;
+ height:103rem;
    width:23.43rem;
-margin:2rem 1.5rem;
+margin:2.5rem 1.6rem;
  background: hsl(210, 46%, 95%);
 
  grid-template-areas:
@@ -181,7 +181,7 @@ margin:2rem 1.5rem;
   "white-long";
    grid-template-columns: 21.56rem;
  grid-template-rows: 21.7rem 13.7rem 12.5rem 19.5rem 26.5rem;
- grid-row-gap: 1rem;
+ grid-row-gap: 1.4rem;
  }
  h2{
  font-size: 14px;
@@ -211,7 +211,7 @@ margin:2rem 1.5rem;
   }
   .quot-img-pos{
     position: absolute;
-    top: 2rem;
+    top: 2.5rem;
     left: 14rem;
     height: 7rem;
   }
