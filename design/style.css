@@ -25,14 +25,14 @@ body{
   grid-gap: 1.8rem;
   }
   h2{
-    font-size: 21px;
+    font-size: 19px;
     line-height: 1.3;
-    padding: 0 2rem 0.4rem 2rem;
+    padding: 0 2rem 0.2rem 2rem;
     color:var(--white);
   }
   p{
     line-height: 1.5;
-    font-size: 13.5px;
+    font-size: 13.1px;
     padding: 0 2rem 0 2rem;
     color:var(--white);
   }
@@ -159,7 +159,7 @@ color:var(--white);
   color: var(--grayish-blue);
 }
 .p-long-specs {
-  line-height: 1.58;
+  line-height: 1.47;
 }
 /*** Mobile view ***/
 @media screen and (max-width:400px) {
@@ -168,9 +168,9 @@ color:var(--white);
 
 }
  .container{
- height:91.5rem;
+ height:98.5rem;
    width:23.43rem;
-margin:2rem 1.2rem;
+margin:2rem 1.5rem;
  background: hsl(210, 46%, 95%);
 
  grid-template-areas:
@@ -180,7 +180,7 @@ margin:2rem 1.2rem;
   "black-sec"
   "white-long";
    grid-template-columns: 21.56rem;
- grid-template-rows: 20.5rem 12.7rem 11rem 17rem 23.5rem;
+ grid-template-rows: 21.7rem 13.7rem 12.5rem 19.5rem 26.5rem;
  grid-row-gap: 1rem;
  }
  h2{
@@ -197,6 +197,7 @@ margin:2rem 1.2rem;
  }
  .user-img{
   position: relative;
+  top: 0.65rem;
   left: -.8rem;
   float: left;
   height: 30px;
@@ -223,7 +224,7 @@ margin:2rem 1.2rem;
   }
  .name{
 position: relative;
-top: -.2rem;
+top: -.1rem;
 left: 0rem;
 color:var(--white);
 
@@ -239,7 +240,7 @@ color:var(--white);
 .name-blackish-blue{
   color: var(--blackish-blue);
   position: relative;
-  top: -.2rem;
+  top: -.1rem;
   left: 0rem;
 }
 .degree-grayish-blue{
