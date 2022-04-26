@@ -58,13 +58,13 @@ body{
   }
   .quot-img-pos{
     position: absolute;
-    top: 3vh;
-    left: 35vw;
+    top: 14vh;
+    left: 36vw;
     height: 7.5rem;
   }
   .quot-visibility{
     position: absolute;
-    top: 11.8vh;
+    top: 22vh;
     width: 31rem;
   }
 
