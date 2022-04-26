@@ -58,13 +58,13 @@ body{
   }
   .quot-img-pos{
     position: absolute;
-    top: 8rem;
-    left: 32rem;
+    top: 3vh;
+    left: 35vw;
     height: 7.5rem;
   }
   .quot-visibility{
     position: absolute;
-    top: 11.8rem;
+    top: 11.8vh;
     width: 31rem;
   }
 
@@ -159,7 +159,7 @@ color:var(--white);
   color: var(--grayish-blue);
 }
 .p-long-specs {
-  line-height: 1.47;
+  line-height: 1.5;
 }
 /*** Mobile view ***/
 @media screen and (max-width:400px) {
