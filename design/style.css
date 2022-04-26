@@ -58,13 +58,13 @@ body{
   }
   .quot-img-pos{
     position: absolute;
-    top: 14vh;
+    top: 9vh;
     left: 36vw;
     height: 7.5rem;
   }
   .quot-visibility{
     position: absolute;
-    top: 22vh;
+    top: 18.5vh;
     width: 31rem;
   }
 
@@ -252,19 +252,11 @@ color:var(--white);
   opacity: 50%;
 
 }
-.h-blackish-blue{
-
-  color: var(--blackish-blue);
-}
-.p-grayish-blue{
-  color: var(--grayish-blue);
-}
 .h-long-specs {
   padding-top: 0;
   padding-bottom: 0.7rem;
 }
 .p-long-specs {
-
   line-height: 1.55;
 }
 }
