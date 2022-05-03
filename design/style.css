@@ -260,3 +260,15 @@ color:var(--white);
   line-height: 1.55;
 }
 }
+@media (min-width:1340px){
+  .quot-img-pos{
+    position: absolute;
+    top: 1vh;
+    left: 36vw;
+  }
+  .quot-visibility{
+    position: absolute;
+    top: 11.5vh;
+    
+  }
+ }
