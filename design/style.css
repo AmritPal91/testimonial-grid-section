@@ -46,7 +46,7 @@ body{
     font-family: 'Barlow Semi Condensed';
     font-display: swap;
     font-weight: 600;
-    src: url('fonts/BarlowSemiCondensed-SemiBold.ttf');
+    src: url('./fonts/BarlowSemiCondensed-SemiBold.ttf');
 }
   .p-specs{
   opacity: 70%;
